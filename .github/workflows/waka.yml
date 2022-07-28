@@ -23,6 +23,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
 
         with:
+        
+          REPOSITORY: <eusebioaddsilva/eusebioaddsilva>
 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           
