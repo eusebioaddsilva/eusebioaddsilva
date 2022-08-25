@@ -4,7 +4,7 @@
 **eusebioaddsilva/eusebioaddsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645%20Thousand%20lines%20of%20code-blue)
 
@@ -37,16 +37,16 @@ Sunday       20 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               5 hrs 10 mins       ███████████████░░░░░░░░░░   60.42% 
-Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   38.31% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-Gettext Catalog          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+JavaScript               5 hrs 21 mins       ██████████████████░░░░░░░   73.6% 
+Python                   1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+Gettext Catalog          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🐱‍💻 Projects: 
-webapp                   8 hrs 34 mins       █████████████████████████   100.0%
+webapp                   7 hrs 16 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 34 mins       █████████████████████████   100.0%
+Mac                      7 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -62,5 +62,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2022 23:37:24 UTC
+ Last Updated on 25/08/2022 23:54:59 UTC
 <!--END_SECTION:waka-->
