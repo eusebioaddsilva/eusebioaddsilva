@@ -4,7 +4,7 @@
 **eusebioaddsilva/eusebioaddsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -35,13 +35,17 @@ Sunday                   205 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 44 mins       ████████████████████░░░░░   81.15 % 
+JSON                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Cypress-ritain.io        4 hrs 36 mins       █████████████████████████   99.79 % 
+formula-QA               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +60,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2023 23:16:29 UTC
+ Last Updated on 27/04/2023 23:29:04 UTC
 <!--END_SECTION:waka-->
