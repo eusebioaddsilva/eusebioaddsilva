@@ -35,14 +35,13 @@ Sunday                   205 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               12 mins             ████████████████████████░   96.86 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fit-well                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -57,5 +56,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2023 23:08:51 UTC
+ Last Updated on 14/08/2023 23:22:14 UTC
 <!--END_SECTION:waka-->
