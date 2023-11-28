@@ -4,7 +4,7 @@
 **eusebioaddsilva/eusebioaddsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
@@ -35,15 +35,15 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               2 hrs 1 min         ███████████████████████░░   90.85 % 
-Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript               3 hrs 34 mins       ███████████████████████░░   93.53 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🐱‍💻 Projects: 
-KeyworkAutomation-1      2 hrs 13 mins       █████████████████████████   100.00 % 
+KeyworkAutomation-1      3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,5 +58,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2023 01:00:32 UTC
+ Last Updated on 28/11/2023 02:02:51 UTC
 <!--END_SECTION:waka-->
