@@ -4,7 +4,7 @@
 **eusebioaddsilva/eusebioaddsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
@@ -35,14 +35,19 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JSON                     6 mins              █████████████████████████   100.00 % 
+JavaScript               1 hr 12 mins        ███████████████░░░░░░░░░░   58.30 % 
+Bash                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-WhatToEat                3 mins              ██████████████░░░░░░░░░░░   55.70 % 
-KeyworkAutomation-1      2 mins              ███████████░░░░░░░░░░░░░░   44.30 % 
+SonecasBot               1 hr 57 mins        ████████████████████████░   95.11 % 
+WhatToEat                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+KeyworkAutomation-1      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -57,5 +62,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2023 01:04:13 UTC
+ Last Updated on 12/12/2023 02:05:51 UTC
 <!--END_SECTION:waka-->
