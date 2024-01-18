@@ -35,13 +35,15 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████░░░░░░░░   69.53 % 
+JSON                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Bash                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SonecasBot               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +58,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2024 00:01:16 UTC
+ Last Updated on 18/01/2024 01:31:53 UTC
 <!--END_SECTION:waka-->
