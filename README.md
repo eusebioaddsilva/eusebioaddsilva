@@ -4,7 +4,7 @@
 **eusebioaddsilva/eusebioaddsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
@@ -35,13 +35,15 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 4 mins         ███████████████████████░░   90.42 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SonecasBot               1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +58,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2024 00:53:55 UTC
+ Last Updated on 03/02/2024 01:43:07 UTC
 <!--END_SECTION:waka-->
