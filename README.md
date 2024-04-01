@@ -35,15 +35,13 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-HTML                     40 mins             ██████████████████░░░░░░░   71.16 % 
-CSS                      16 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Coding                   56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,5 +56,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2024 23:21:12 UTC
+ Last Updated on 01/04/2024 23:34:36 UTC
 <!--END_SECTION:waka-->
